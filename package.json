@@ -1,0 +1,18 @@
+{
+  "name": "auto-login-plugin",
+  "author": "hzqlingmou",
+  "version": "1.0.0",
+  "description": "基于TRSS-Yunzai的功能性插件，实现多协议，多用户管理，网页端自助代挂",
+  "type": "module",
+  "dependencies": {
+    "axios": "*",
+    "js-yaml": "*",
+    "nodemailer": "*"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "eslint-plugin-vue": "^9.32.0",
+    "globals": "^15.14.0"
+  }
+}
